@@ -2,6 +2,4 @@
 
 # What will the next highest grossing mobile game look like in the US?
 
-![myimage](https://github.com/UmbraVenus/digihum100/blob/cc1f3298b3e5ca75b1f2785d6432dae72c6860dc/mobile%20game%20(1).pdf)
-
-https://github.com/UmbraVenus/digihum100/blob/cc1f3298b3e5ca75b1f2785d6432dae72c6860dc/jun-5-draft.pdf
+![storyboard](https://github.com/UmbraVenus/digihum100/blob/88ccea3bd44450a9aa3054cb740a63547e04b7b3/mobile%20game.jpeg)
